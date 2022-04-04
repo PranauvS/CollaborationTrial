@@ -1,2 +1,2 @@
 pranauv 10000
-surya
+surya 10001
